@@ -1,0 +1,20 @@
+.contact {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: max-content;
+  gap: 20px;
+  border-radius: 8px;
+  background-color: #f3f3f3;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+}
+
+.list {
+  display: flex;
+  gap: 20px;
+  padding: 0;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
